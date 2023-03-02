@@ -22,8 +22,12 @@
 **/
 :root {
   /* DefaultBlue */
-  --fluent-accent-hue-sat: 207, 100%;
+  /*--fluent-accent-hue-sat: 207, 100%;
   --fluent-accent-lightness: 42%;
+  */
+/* SteelBlue */
+  --fluent-accent-hue-sat: 215, 14%;
+  --fluent-accent-lightness: 47%;
   --fluent-text-on-accent-color: 0, 0, 0;
   --fluent-acrylic-background: url(https://i.ibb.co/M6P3fdM/TENIS.png.jpg);
   --fluent-acrylic-background-blur: 24px;
